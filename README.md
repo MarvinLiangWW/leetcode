@@ -1,8 +1,9 @@
 # leetcode
 
 solutions
-  codes
+    codes
   
 thinking process
+    build-in functions
 
 
