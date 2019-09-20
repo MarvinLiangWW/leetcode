@@ -1,4 +1,3 @@
-```
 import collections
 c = collections.Counter()
 d = collections.defaultdict()
@@ -9,4 +8,4 @@ hex() # 十六进制表示  0x string
 # 负数会在前面加上一个负号
 
 int(,2)  int(,8) int(,16)
-```
+
